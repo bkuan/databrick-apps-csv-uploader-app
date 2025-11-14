@@ -1,6 +1,10 @@
 # Databricks CSV to Delta Table Uploader
 
 A Databricks App built with Dash that enables seamless upload of CSV files to Databricks volumes and automated creation of Delta tables. This tool streamlines the data ingestion process for Databricks Unity Catalog environments.
+<img width="3386" height="1118" alt="image" src="https://github.com/user-attachments/assets/70e86a65-92b7-42bd-a871-a5ff22304e4b" />
+
+<img width="1656" height="1818" alt="image" src="https://github.com/user-attachments/assets/bb3e6850-51d8-4520-ac2d-217704241d3b" />
+
 
 ## Features
 
